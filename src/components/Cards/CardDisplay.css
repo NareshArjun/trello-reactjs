@@ -1,0 +1,30 @@
+.cardnamedisplay {
+  position: relative;
+}
+.custombutton {
+  cursor: pointer;
+  background: transparent;
+  border: 0;
+  position: absolute;
+  bottom: 0;
+  top: 0;
+}
+.deletebutton {
+  right: 0;
+}
+.editbutton {
+  right: 20px;
+}
+.formtoedit {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 10;
+}
+.cardname {
+  color: black;
+  cursor: pointer;
+}
+/*.listcomponent {
+  position: relative;
+}*/

@@ -1,0 +1,14 @@
+.board_create {
+  background-color: ivory;
+  color: black;
+  border: 1px solid;
+  border-radius: 10px;
+  cursor: pointer;
+  padding: 30px 15px;
+}
+.displayboards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
