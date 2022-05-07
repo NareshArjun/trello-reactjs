@@ -1,0 +1,38 @@
+.App-header {
+  background-color: rgb(42, 108, 134);
+  width: 100%;
+  color: white;
+}
+.row_wrapped {
+  margin: 0 auto;
+  width: 80%;
+}
+.row_inner {
+  /*width: 100%;*/
+  display: flex;
+  flex-wrap: wrap;
+}
+.column_inner {
+  width: 100%;
+}
+.column_1_5 {
+  width: 20%;
+}
+.column_4_5 {
+  width: 80%;
+}
+.flex_container_align_1 {
+  justify-content: space-around;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+.btn_create {
+  background-color: transparent;
+  color: white;
+  border: 1px solid;
+  border-radius: 10px;
+  cursor: pointer;
+  padding: 5px 15px;
+}
